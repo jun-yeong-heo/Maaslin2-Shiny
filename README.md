@@ -1,4 +1,12 @@
+## Contents edited (on building) ##
 
+### HAVE to DO ###
+
+1. Porting onto Shiny
+2. Tracking each points (i.e. samples) for each boxplot
+3. (Optional) DPI scale-up to 600
+
+--------------------------------------------
 
 # MaAsLin2 User Manual #
 
